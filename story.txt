@@ -1,3 +1,1 @@
-This is a test line to see how pushing to git repo works.
 
-This is the second line added on test-branch
