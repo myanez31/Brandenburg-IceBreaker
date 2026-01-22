@@ -6,9 +6,10 @@ Manuel Yanez - Team Lorelei - https://github.com/rshaffe7/SER316-Icebreaker
 Andrew Kalazins
 Catherine Alavena
 Chanpreet Thandi
-Colin Harris
 Mark Oldham
 Stephen Roady
+
+Colin Harris PR: - https://github.com/fanayaal/BlackForest-SER316-Story/pull/7
 
 Created by Mark Oldham https://github.com/acancelnPR/die-Romantiker/pull/4
 
