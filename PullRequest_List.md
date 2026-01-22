@@ -14,3 +14,5 @@ Colin Harris PR: - https://github.com/fanayaal/BlackForest-SER316-Story/pull/7
 Created by Mark Oldham https://github.com/acancelnPR/die-Romantiker/pull/4
 
 Andrew's PR: https://github.com/acancelnPR/die-Romantiker/pull/5
+
+Catherine's PR: https://github.com/mporembs/DieGeschichte/pull/8
